@@ -3,6 +3,12 @@
 ### Prepared By : :octocat:
 - [Rutu Shah](#) :girl:
 
+### Prepared For : :octocat:
+- [Sakshi Sharma Mam](#) :girl:
+
+### Prepared By : :octocat:
+- **Web URL** https://www.saucedemo.com/
+
 ### Prerqequiesites :open_book:
 
 - **Tools** :hammer_and_pick:
@@ -12,6 +18,7 @@
     - Git
     - Maven
 
+  
 - **Technologies** :crossed_swords:
     - Java (Scripting Language)
     - Selenium (Automation Library)
@@ -44,4 +51,3 @@
 |src/test/java/com/framework/CartPage|This class contains the test case scripts for addProductoCarts, RemoveProductFromCart, Checkout and Continue Shopping|
 
 
-This repository is created by Rutu Shah for the exam given by Sakshi Sharma Mam
