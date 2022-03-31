@@ -6,8 +6,8 @@
 ### Prepared For : :octocat:
 - [Sakshi Sharma Mam](#) :girl:
 
-### Prepared By : :octocat:
-- **Web URL** https://www.saucedemo.com/
+- **Web URL** : https://www.saucedemo.com/
+- **Date of Submission** : 31rst March 2022
 
 ### Prerqequiesites :open_book:
 
