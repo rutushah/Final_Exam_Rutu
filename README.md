@@ -30,7 +30,7 @@
 
 - Clone this project to your local environment
 
-    `git clone https://github.ocom/rutushah/Final_Exam_Rutu.git`
+    `git clone https://github.com/rutushah/Final_Exam_Rutu.git`
 
 - Open the cloned project in installed IDE.
 - Wait for maven to load all the dependencies. (It may take 2-3 minutes depending on your connection)
